@@ -1,3 +1,17 @@
+/**
+ * @file Lib.cpp
+ * 
+ * @author Benjamin Gunnels (bengunnels8@gmail.com)
+ * @brief Implements a builder design pattern for building some archetypal video game characters (Heroes and Villains).
+ * The concrete builder classes manage the creation of their delegated objects, rather than passing data through a bloated constructor.
+ * @date 2025-06-04
+ * 
+ * @copyright Copyright (Benjamin Gunnels) 2025
+ *
+ * 
+ * 
+ */
+
 #include <string>
 #include <iostream>
 

@@ -1,3 +1,17 @@
+/**
+ * @file Lib.cpp
+ * 
+ * @author Benjamin Gunnels (bengunnels8@gmail.com)
+ * @brief Implements a prototype design pattern for implementing a variety of caches (LRU, LFU).
+ *  The prototype declare the general behavior for its children objects, specifically the clone method.
+ * @date 2025-06-04
+ * 
+ * @copyright Copyright (Benjamin Gunnels) 2025
+ *
+ * 
+ * 
+ */
+
 #include <unordered_map>
 #include <list>
 #include <iostream>

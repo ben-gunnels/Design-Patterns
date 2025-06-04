@@ -1,3 +1,16 @@
+/**
+ * @file Lib.cpp
+ * 
+ * @author Benjamin Gunnels (bengunnels8@gmail.com)
+ * @brief Implements a factory design pattern for creating UI objects (notifications/alerts).
+ * @date 2025-06-04
+ * 
+ * @copyright Copyright (Benjamin Gunnels) 2025
+ *
+ * 
+ * 
+ */
+
 #include <string>
 #include <iostream>
 

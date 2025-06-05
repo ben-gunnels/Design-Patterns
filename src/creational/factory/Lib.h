@@ -1,5 +1,5 @@
 /**
- * @file Lib.cpp
+ * @file Lib.h
  * 
  * @author Benjamin Gunnels (bengunnels8@gmail.com)
  * @brief Implements a factory design pattern for creating UI objects (notifications/alerts).

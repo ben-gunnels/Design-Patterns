@@ -1,5 +1,5 @@
 /**
- * @file Lib.cpp
+ * @file Lib.h
  * 
  * @author Benjamin Gunnels (bengunnels8@gmail.com)
  * @brief Implements a prototype design pattern for implementing a variety of caches (LRU, LFU).
@@ -53,7 +53,6 @@ private:
 
     // Hash map: key → iterator to itemList
     std::unordered_map<int, std::list<std::pair<int, int>>::iterator> itemMap;
-
 };
 
 class LFUCache: CachePrototype {

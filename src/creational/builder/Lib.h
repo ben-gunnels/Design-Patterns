@@ -1,5 +1,5 @@
 /**
- * @file Lib.cpp
+ * @file Lib.h
  * 
  * @author Benjamin Gunnels (bengunnels8@gmail.com)
  * @brief Implements a builder design pattern for building some archetypal video game characters (Heroes and Villains).

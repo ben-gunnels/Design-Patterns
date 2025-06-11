@@ -1,3 +1,17 @@
+/**
+ * @file Lib.h
+ * 
+ * @author Benjamin Gunnels (bengunnels8@gmail.com)
+ * @brief Implements a adapter design pattern for translating signals of differing frequencies.
+ * 
+ * @date 2025-10-04
+ * 
+ * @copyright Copyright (Benjamin Gunnels) 2025
+ *
+ * 
+ * 
+ */
+
 #include <iostream>
 
 struct Signal {
